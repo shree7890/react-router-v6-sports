@@ -1,0 +1,11 @@
+.menu li a {
+  margin-right: 10px;
+  color: brown;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.active {
+  color: blue !important;
+  border-bottom: 1px solid green;
+}
